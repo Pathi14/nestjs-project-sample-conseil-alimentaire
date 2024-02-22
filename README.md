@@ -22,5 +22,5 @@ $ NB Rassurez-vous d'avoir le fichier .env :)
 $ npm run start
 
 # watch mode
-$ npm run start:devcd
+$ npm run start:dev
 ```
